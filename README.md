@@ -9,6 +9,7 @@ An Apple Watch–style Photos app for **OnePlus Watch 3** that syncs the ♥ Fav
 ![Android](https://img.shields.io/badge/Android-11%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.1-7F52FF?logo=kotlin&logoColor=white)
 ![No root](https://img.shields.io/badge/root-not%20required-success)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![No cloud](https://img.shields.io/badge/servers-none-success)
 
 **English** · [Русский](README.ru.md)
@@ -37,7 +38,7 @@ An Apple Watch–style Photos app for **OnePlus Watch 3** that syncs the ♥ Fav
 
 ### 📦 Install
 
-1. Build the APK, or take one from Releases:
+1. Download `app-release.apk` from [Releases](https://github.com/y9hack337/OnePlus-Watch-Gallery/releases/latest) or build it yourself:
    ```bash
    ./gradlew :app:assembleRelease
    ```
@@ -88,3 +89,8 @@ OnePlus Gallery ♥ ──► MediaStore.IS_FAVORITE
 - Unofficial project, not affiliated with OnePlus or Google.
 - Tested on a OnePlus 13 (OxygenOS 16) with a OnePlus Watch 3 (Wear OS 5) paired via OHealth.
 - If the Data Layer has no Bluetooth link but both devices are online, Google Play services may relay data through Google's end-to-end encrypted cloud node.
+- The watch launcher icon is the OnePlus Gallery icon, a trademark of OnePlus; it is not covered by the MIT license.
+
+## License
+
+[MIT](LICENSE) © 2026 y9hack337

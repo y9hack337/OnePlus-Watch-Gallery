@@ -9,6 +9,7 @@
 ![Android](https://img.shields.io/badge/Android-11%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.1-7F52FF?logo=kotlin&logoColor=white)
 ![No root](https://img.shields.io/badge/root-%D0%BD%D0%B5%20%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-success)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 ![No cloud](https://img.shields.io/badge/%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%B2-%D0%BD%D0%B5%D1%82-success)
 
 [English](README.md) · **Русский**
@@ -37,7 +38,7 @@
 
 ### 📦 Установка
 
-1. Собери APK или скачай из Releases:
+1. Скачай `app-release.apk` из [Releases](https://github.com/y9hack337/OnePlus-Watch-Gallery/releases/latest) или собери сам:
    ```bash
    ./gradlew :app:assembleRelease
    ```
@@ -88,3 +89,8 @@ OnePlus Gallery ♥ ──► MediaStore.IS_FAVORITE
 - Неофициальный проект, не связан с OnePlus или Google.
 - Проверено на OnePlus 13 (OxygenOS 16) и OnePlus Watch 3 (Wear OS 5) в паре через OHealth.
 - Если Bluetooth-связи нет, но оба устройства в интернете, Google Play services могут передать данные через облачный узел Google со сквозным шифрованием.
+- Иконка на часах — иконка Галереи OnePlus, товарный знак OnePlus; на неё лицензия MIT не распространяется.
+
+## Лицензия
+
+[MIT](LICENSE) © 2026 y9hack337
